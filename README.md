@@ -7,4 +7,4 @@ However, due to me trying get a standard library working, I don't think the comp
 
 The compiler produces LLVM IR files, which are then compiled, optimized, and linked into an executable by Clang.
 
-More info on the language can be found <a href="http://localhost:1313/projects/essprog/">here</a> and <a href="http://localhost:1313/projects/essprog-docs/">here</a>, on my website.
+More info on the language can be found <a href="https://andrewklinge.com/projects/essprog/">here</a> and <a href="https://andrewklinge.com/projects/essprog-docs/">here</a>, on my website.
